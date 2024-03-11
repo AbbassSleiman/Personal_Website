@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
 My name is Abbass Sleiman and I am a Lebanese third-year undergraduate student at the University of Toronto pursuing studies in Mathematical Applications in Economics and Finance. I have always been passionate about untangling the world's complexities and understanding its economic and financial dynamics. The practical applications that arise from the many theoretical frameworks developed in economics and finance, along with the many intersections between mathematical concepts and financial practices, have always captivated me. 
