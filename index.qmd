@@ -2,5 +2,9 @@
 title: "Welcome!"
 ---
 
-My name is Abbass Sleiman, welcome to my personal website! You can learn more about me [here](https://abbasssleiman.github.io/Personal_Website/about.html). For a list of my work or academic experiences, click [here]()
+My name is Abbass Sleiman, welcome to my personal website! 
+
+You can learn more about me [here](https://abbasssleiman.github.io/Personal_Website/about.html). 
+
+For a list of my work and academic experiences, click [here](https://github.com/AbbassSleiman/Personal_Website/raw/master/Resume.pdf) to download my resume.
 
